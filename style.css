@@ -1,4 +1,9 @@
 /* Global look */
+
+html {  
+  scroll-behavior: smooth; 
+}
+
 body {
   margin: 0;
   font-family: 'Baloo 2', cursive;
